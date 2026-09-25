@@ -1,0 +1,17 @@
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQL exports / local database dumps
+*.sql.bak
+*.dump
+*.bak
+
+# Secrets
+.env
+.env.*
+!.env.example
