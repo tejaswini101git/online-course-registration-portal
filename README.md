@@ -1,5 +1,5 @@
 # 🎓 Online Course Registration Portal
-!!!!
+
 > **A normalized MySQL database system for academic course registration, enrollment, prerequisites, waitlists, grades, payments, notifications, and role-based access.**
 
 ![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)
